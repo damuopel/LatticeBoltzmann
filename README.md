@@ -7,4 +7,4 @@ Lattice Boltzmann modeling of fluid flow in python
 python main.py
 ````
 
-![Fourier](https://github.com/damuopel/Fourier/blob/master/Re200.gif)
+![Fourier](https://github.com/damuopel/LatticeBoltzmann/blob/master/Re200.gif)
